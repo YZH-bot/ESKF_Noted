@@ -1,47 +1,47 @@
 # ESKF_Noted
 这个文稿是 ESKF 惯性组合导航的推导，主要是根据高博的书《SLAM in Autonomous Driving book》梳理了一遍流程，并对某些地方做了一些解释说明和个人理解，旨在学习与记录，如有错误欢迎批评指正。And code updating~
 <p align="center">
-  <img src="imgs/ESKF惯性组合导航_00.png" alt="animated" width="750" />
+  <img src="imgs/ESKF惯性组合导航_00.png" alt="animated" width="900" />
 </p>
 
 <p align="center">
-  <img src="imgs/ESKF惯性组合导航_01.png" alt="animated" width="750" />
+  <img src="imgs/ESKF惯性组合导航_01.png" alt="animated" width="900" />
 </p>
 
 <p align="center">
-  <img src="imgs/ESKF惯性组合导航_02.png" alt="animated" width="750" />
+  <img src="imgs/ESKF惯性组合导航_02.png" alt="animated" width="900" />
 </p>
 
 <p align="center">
-  <img src="imgs/ESKF惯性组合导航_03.png" alt="animated" width="750" />
+  <img src="imgs/ESKF惯性组合导航_03.png" alt="animated" width="900" />
 </p>
 
 <p align="center">
-  <img src="imgs/ESKF惯性组合导航_04.png" alt="animated" width="750" />
+  <img src="imgs/ESKF惯性组合导航_04.png" alt="animated" width="900" />
 </p>
 
 <p align="center">
-  <img src="imgs/ESKF惯性组合导航_05.png" alt="animated" width="750" />
+  <img src="imgs/ESKF惯性组合导航_05.png" alt="animated" width="900" />
 </p>
 
 <p align="center">
-  <img src="imgs/ESKF惯性组合导航_06.png" alt="animated" width="750" />
+  <img src="imgs/ESKF惯性组合导航_06.png" alt="animated" width="900" />
 </p>
 
 <p align="center">
-  <img src="imgs/ESKF惯性组合导航_07.png" alt="animated" width="750" />
+  <img src="imgs/ESKF惯性组合导航_07.png" alt="animated" width="900" />
 </p>
 
 <p align="center">
-  <img src="imgs/ESKF惯性组合导航_08.png" alt="animated" width="750" />
+  <img src="imgs/ESKF惯性组合导航_08.png" alt="animated" width="900" />
 </p>
 
 <p align="center">
-  <img src="imgs/ESKF惯性组合导航_09.png" alt="animated" width="750" />
+  <img src="imgs/ESKF惯性组合导航_09.png" alt="animated" width="900" />
 </p>
 
 <p align="center">
-  <img src="imgs/ESKF惯性组合导航_10.png" alt="animated" width="750" />
+  <img src="imgs/ESKF惯性组合导航_10.png" alt="animated" width="900" />
 </p>
 
 
