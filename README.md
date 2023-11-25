@@ -44,6 +44,9 @@
   <img src="imgs/ESKF惯性组合导航_10.png" alt="animated"/>
 </p>
 
+<p align="center">
+  <img src="imgs/ESKF惯性组合导航_11.png" alt="animated"/>
+</p>
 
 # *Reference*
 [旋转矩阵求导出现角速度的理解](https://zhuanlan.zhihu.com/p/602088458)
